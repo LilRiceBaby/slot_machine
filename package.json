@@ -1,0 +1,15 @@
+{
+    "name": "slot-machine-game",
+    "version": "1.0.0",
+    "description": "Terminal-based slot machine game built in Node.js",
+    "main": "slotMachine.js",
+    "scripts": {
+        "start": "node slotMachine.js"
+    },
+    "author": "Rice",
+    "license": "MIT",
+    "dependencies": {
+        "prompt-sync": "^4.2.0",
+        "slot-machine-game": "file:"
+    }
+}
